@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Widget CDM 2026, application Android non officielle.">
+  <title>Widget CDM 2026</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: #f4f7ff;
+      background: radial-gradient(circle at top, #174a91, #071326 58%);
+    }
+    main { width: min(920px, 90%); margin: auto; padding: 72px 0; }
+    .hero {
+      padding: 48px;
+      border: 1px solid #ffffff24;
+      border-radius: 28px;
+      background: #081a33d9;
+      box-shadow: 0 24px 80px #0007;
+    }
+    .brand { display: flex; align-items: center; gap: 22px; }
+    .brand img { width: 96px; height: 96px; border-radius: 24px; }
+    h1 { margin: 0; font-size: clamp(2.2rem, 7vw, 4.8rem); line-height: .95; }
+    .lead { max-width: 680px; margin: 28px 0; color: #cbd9f3; font-size: 1.2rem; }
+    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px; }
+    .feature { padding: 18px; border-radius: 16px; background: #ffffff0d; }
+    nav { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+    a {
+      padding: 12px 18px;
+      border-radius: 999px;
+      color: white;
+      background: #176ce0;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    a.secondary { background: #ffffff14; }
+    footer { margin-top: 24px; color: #9cb0cf; font-size: .9rem; }
+    @media (max-width: 600px) {
+      .hero { padding: 28px; }
+      .brand { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="brand">
+        <img src="app-icon-512.png" alt="Logo Widget CDM 2026">
+        <h1>Widget<br>CDM 2026</h1>
+      </div>
+      <p class="lead">
+        Une application Android locale pour suivre son equipe favorite depuis
+        l'ecran d'accueil, avec calendrier, compte a rebours, classement et rappels.
+      </p>
+      <div class="features">
+        <div class="feature"><strong>3 formats</strong><br>Compact, normal et grand</div>
+        <div class="feature"><strong>48 equipes</strong><br>Selection de l'equipe favorite</div>
+        <div class="feature"><strong>Vie privee</strong><br>Sans compte ni analytique</div>
+      </div>
+      <nav>
+        <a href="https://github.com/maximethomas16-cell/widget-cdm-2026">Projet GitHub</a>
+        <a class="secondary" href="privacy-policy.html">Politique de confidentialite</a>
+      </nav>
+      <footer>
+        Application independante et non officielle, sans affiliation avec la FIFA.
+      </footer>
+    </section>
+  </main>
+</body>
+</html>
