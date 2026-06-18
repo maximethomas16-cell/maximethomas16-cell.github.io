@@ -1,5 +1,494 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-06T18:00:00+02:00",
-  "matches": []
+  "updatedAt": "2026-06-18T14:21:24.396053+02:00",
+  "matches": [
+    {
+      "matchNumber": 1,
+      "status": "FINISHED",
+      "date": "2026-06-11T21:00:00+02:00",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "matchNumber": 2,
+      "status": "FINISHED",
+      "date": "2026-06-12T04:00:00+02:00",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 3,
+      "status": "FINISHED",
+      "date": "2026-06-12T21:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 4,
+      "status": "FINISHED",
+      "date": "2026-06-13T03:00:00+02:00",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 5,
+      "status": "FINISHED",
+      "date": "2026-06-14T03:00:00+02:00",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 6,
+      "status": "FINISHED",
+      "date": "2026-06-14T06:00:00+02:00",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "matchNumber": 7,
+      "status": "FINISHED",
+      "date": "2026-06-14T00:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 8,
+      "status": "FINISHED",
+      "date": "2026-06-13T21:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 9,
+      "status": "FINISHED",
+      "date": "2026-06-15T01:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "matchNumber": 10,
+      "status": "FINISHED",
+      "date": "2026-06-14T19:00:00+02:00",
+      "homeScore": 7,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 11,
+      "status": "FINISHED",
+      "date": "2026-06-14T22:00:00+02:00",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "matchNumber": 12,
+      "status": "FINISHED",
+      "date": "2026-06-15T04:00:00+02:00",
+      "homeScore": 5,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 13,
+      "status": "FINISHED",
+      "date": "2026-06-16T00:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 14,
+      "status": "FINISHED",
+      "date": "2026-06-15T18:00:00+02:00",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "matchNumber": 15,
+      "status": "FINISHED",
+      "date": "2026-06-16T03:00:00+02:00",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "matchNumber": 16,
+      "status": "FINISHED",
+      "date": "2026-06-15T21:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 17,
+      "status": "FINISHED",
+      "date": "2026-06-16T21:00:00+02:00",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 18,
+      "status": "FINISHED",
+      "date": "2026-06-17T00:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 4
+    },
+    {
+      "matchNumber": 19,
+      "status": "FINISHED",
+      "date": "2026-06-17T03:00:00+02:00",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "matchNumber": 20,
+      "status": "FINISHED",
+      "date": "2026-06-17T06:00:00+02:00",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 21,
+      "status": "LIVE",
+      "date": "2026-06-18T01:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "matchNumber": 22,
+      "status": "FINISHED",
+      "date": "2026-06-17T22:00:00+02:00",
+      "homeScore": 4,
+      "awayScore": 2
+    },
+    {
+      "matchNumber": 23,
+      "status": "FINISHED",
+      "date": "2026-06-17T19:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "matchNumber": 24,
+      "status": "FINISHED",
+      "date": "2026-06-18T04:00:00+02:00",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "matchNumber": 25,
+      "status": "SCHEDULED",
+      "date": "2026-06-18T18:00:00+02:00"
+    },
+    {
+      "matchNumber": 26,
+      "status": "SCHEDULED",
+      "date": "2026-06-18T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 27,
+      "status": "SCHEDULED",
+      "date": "2026-06-19T00:00:00+02:00"
+    },
+    {
+      "matchNumber": 28,
+      "status": "SCHEDULED",
+      "date": "2026-06-19T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 29,
+      "status": "SCHEDULED",
+      "date": "2026-06-20T02:30:00+02:00"
+    },
+    {
+      "matchNumber": 30,
+      "status": "SCHEDULED",
+      "date": "2026-06-20T00:00:00+02:00"
+    },
+    {
+      "matchNumber": 31,
+      "status": "SCHEDULED",
+      "date": "2026-06-20T05:00:00+02:00"
+    },
+    {
+      "matchNumber": 32,
+      "status": "SCHEDULED",
+      "date": "2026-06-19T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 33,
+      "status": "SCHEDULED",
+      "date": "2026-06-20T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 34,
+      "status": "SCHEDULED",
+      "date": "2026-06-21T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 35,
+      "status": "SCHEDULED",
+      "date": "2026-06-20T19:00:00+02:00"
+    },
+    {
+      "matchNumber": 36,
+      "status": "SCHEDULED",
+      "date": "2026-06-21T06:00:00+02:00"
+    },
+    {
+      "matchNumber": 37,
+      "status": "SCHEDULED",
+      "date": "2026-06-22T00:00:00+02:00"
+    },
+    {
+      "matchNumber": 38,
+      "status": "SCHEDULED",
+      "date": "2026-06-21T18:00:00+02:00"
+    },
+    {
+      "matchNumber": 39,
+      "status": "SCHEDULED",
+      "date": "2026-06-21T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 40,
+      "status": "SCHEDULED",
+      "date": "2026-06-22T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 41,
+      "status": "SCHEDULED",
+      "date": "2026-06-23T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 42,
+      "status": "SCHEDULED",
+      "date": "2026-06-22T23:00:00+02:00"
+    },
+    {
+      "matchNumber": 43,
+      "status": "SCHEDULED",
+      "date": "2026-06-22T19:00:00+02:00"
+    },
+    {
+      "matchNumber": 44,
+      "status": "SCHEDULED",
+      "date": "2026-06-23T05:00:00+02:00"
+    },
+    {
+      "matchNumber": 45,
+      "status": "SCHEDULED",
+      "date": "2026-06-23T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 46,
+      "status": "SCHEDULED",
+      "date": "2026-06-24T01:00:00+02:00"
+    },
+    {
+      "matchNumber": 47,
+      "status": "SCHEDULED",
+      "date": "2026-06-23T19:00:00+02:00"
+    },
+    {
+      "matchNumber": 48,
+      "status": "SCHEDULED",
+      "date": "2026-06-24T04:00:00+02:00"
+    },
+    {
+      "matchNumber": 49,
+      "status": "SCHEDULED",
+      "date": "2026-06-25T00:00:00+02:00"
+    },
+    {
+      "matchNumber": 50,
+      "status": "SCHEDULED",
+      "date": "2026-06-25T00:00:00+02:00"
+    },
+    {
+      "matchNumber": 51,
+      "status": "SCHEDULED",
+      "date": "2026-06-24T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 52,
+      "status": "SCHEDULED",
+      "date": "2026-06-24T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 53,
+      "status": "SCHEDULED",
+      "date": "2026-06-25T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 54,
+      "status": "SCHEDULED",
+      "date": "2026-06-25T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 55,
+      "status": "SCHEDULED",
+      "date": "2026-06-25T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 56,
+      "status": "SCHEDULED",
+      "date": "2026-06-25T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 57,
+      "status": "SCHEDULED",
+      "date": "2026-06-26T01:00:00+02:00"
+    },
+    {
+      "matchNumber": 58,
+      "status": "SCHEDULED",
+      "date": "2026-06-26T01:00:00+02:00"
+    },
+    {
+      "matchNumber": 59,
+      "status": "SCHEDULED",
+      "date": "2026-06-26T04:00:00+02:00"
+    },
+    {
+      "matchNumber": 60,
+      "status": "SCHEDULED",
+      "date": "2026-06-26T04:00:00+02:00"
+    },
+    {
+      "matchNumber": 61,
+      "status": "SCHEDULED",
+      "date": "2026-06-26T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 62,
+      "status": "SCHEDULED",
+      "date": "2026-06-26T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 63,
+      "status": "SCHEDULED",
+      "date": "2026-06-27T05:00:00+02:00"
+    },
+    {
+      "matchNumber": 64,
+      "status": "SCHEDULED",
+      "date": "2026-06-27T05:00:00+02:00"
+    },
+    {
+      "matchNumber": 65,
+      "status": "SCHEDULED",
+      "date": "2026-06-27T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 66,
+      "status": "SCHEDULED",
+      "date": "2026-06-27T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 67,
+      "status": "SCHEDULED",
+      "date": "2026-06-27T23:00:00+02:00"
+    },
+    {
+      "matchNumber": 68,
+      "status": "SCHEDULED",
+      "date": "2026-06-27T23:00:00+02:00"
+    },
+    {
+      "matchNumber": 69,
+      "status": "SCHEDULED",
+      "date": "2026-06-28T04:00:00+02:00"
+    },
+    {
+      "matchNumber": 70,
+      "status": "SCHEDULED",
+      "date": "2026-06-28T04:00:00+02:00"
+    },
+    {
+      "matchNumber": 71,
+      "status": "SCHEDULED",
+      "date": "2026-06-28T01:30:00+02:00"
+    },
+    {
+      "matchNumber": 72,
+      "status": "SCHEDULED",
+      "date": "2026-06-28T01:30:00+02:00"
+    },
+    {
+      "matchNumber": 73,
+      "status": "SCHEDULED",
+      "date": "2026-06-28T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 74,
+      "status": "SCHEDULED",
+      "date": "2026-06-29T22:30:00+02:00"
+    },
+    {
+      "matchNumber": 75,
+      "status": "SCHEDULED",
+      "date": "2026-06-30T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 76,
+      "status": "SCHEDULED",
+      "date": "2026-06-29T19:00:00+02:00"
+    },
+    {
+      "matchNumber": 77,
+      "status": "SCHEDULED",
+      "date": "2026-06-30T23:00:00+02:00"
+    },
+    {
+      "matchNumber": 78,
+      "status": "SCHEDULED",
+      "date": "2026-06-30T19:00:00+02:00"
+    },
+    {
+      "matchNumber": 79,
+      "status": "SCHEDULED",
+      "date": "2026-07-01T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 80,
+      "status": "SCHEDULED",
+      "date": "2026-07-01T18:00:00+02:00"
+    },
+    {
+      "matchNumber": 81,
+      "status": "SCHEDULED",
+      "date": "2026-07-02T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 82,
+      "status": "SCHEDULED",
+      "date": "2026-07-01T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 83,
+      "status": "SCHEDULED",
+      "date": "2026-07-03T01:00:00+02:00"
+    },
+    {
+      "matchNumber": 84,
+      "status": "SCHEDULED",
+      "date": "2026-07-02T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 85,
+      "status": "SCHEDULED",
+      "date": "2026-07-03T05:00:00+02:00"
+    },
+    {
+      "matchNumber": 86,
+      "status": "SCHEDULED",
+      "date": "2026-07-04T00:00:00+02:00"
+    },
+    {
+      "matchNumber": 87,
+      "status": "SCHEDULED",
+      "date": "2026-07-04T03:30:00+02:00"
+    },
+    {
+      "matchNumber": 88,
+      "status": "SCHEDULED",
+      "date": "2026-07-03T20:00:00+02:00"
+    }
+  ]
 }
