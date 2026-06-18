@@ -1,0 +1,794 @@
+[
+  {
+    "matchNumber": 1,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-11T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Mexico City Stadium",
+    "homeId": "mexique",
+    "awayId": "afrique-du-sud"
+  },
+  {
+    "matchNumber": 2,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-12T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Guadalajara",
+    "homeId": "coree-du-sud",
+    "awayId": "republique-tcheque"
+  },
+  {
+    "matchNumber": 3,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-12T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Toronto Stadium",
+    "homeId": "canada",
+    "awayId": "bosnie-herzegovine"
+  },
+  {
+    "matchNumber": 4,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-13T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": "etats-unis",
+    "awayId": "paraguay"
+  },
+  {
+    "matchNumber": 5,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-14T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Boston Stadium",
+    "homeId": "haiti",
+    "awayId": "ecosse"
+  },
+  {
+    "matchNumber": 6,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-13T06:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "BC Place Vancouver",
+    "homeId": "australie",
+    "awayId": "turquie"
+  },
+  {
+    "matchNumber": 7,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-14T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "New York New Jersey Stadium",
+    "homeId": "bresil",
+    "awayId": "maroc"
+  },
+  {
+    "matchNumber": 8,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-13T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "San Francisco Bay Area Stadium",
+    "homeId": "qatar",
+    "awayId": "suisse"
+  },
+  {
+    "matchNumber": 9,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-15T01:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Philadelphia Stadium",
+    "homeId": "cote-ivoire",
+    "awayId": "equateur"
+  },
+  {
+    "matchNumber": 10,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-14T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Houston Stadium",
+    "homeId": "allemagne",
+    "awayId": "curacao"
+  },
+  {
+    "matchNumber": 11,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-14T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": "pays-bas",
+    "awayId": "japon"
+  },
+  {
+    "matchNumber": 12,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-15T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Monterrey",
+    "homeId": "suede",
+    "awayId": "tunisie"
+  },
+  {
+    "matchNumber": 13,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-16T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Miami Stadium",
+    "homeId": "arabie-saoudite",
+    "awayId": "uruguay"
+  },
+  {
+    "matchNumber": 14,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-15T18:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Atlanta Stadium",
+    "homeId": "espagne",
+    "awayId": "cap-vert"
+  },
+  {
+    "matchNumber": 15,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-16T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": "iran",
+    "awayId": "nouvelle-zelande"
+  },
+  {
+    "matchNumber": 16,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-15T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Seattle Stadium",
+    "homeId": "belgique",
+    "awayId": "egypte"
+  },
+  {
+    "matchNumber": 17,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-16T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "New York New Jersey Stadium",
+    "homeId": "france",
+    "awayId": "senegal"
+  },
+  {
+    "matchNumber": 18,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-17T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Boston Stadium",
+    "homeId": "irak",
+    "awayId": "norvege"
+  },
+  {
+    "matchNumber": 19,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-17T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Kansas City Stadium",
+    "homeId": "argentine",
+    "awayId": "algerie"
+  },
+  {
+    "matchNumber": 20,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-16T06:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "San Francisco Bay Area Stadium",
+    "homeId": "autriche",
+    "awayId": "jordanie"
+  },
+  {
+    "matchNumber": 21,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-18T01:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Toronto Stadium",
+    "homeId": "ghana",
+    "awayId": "panama"
+  },
+  {
+    "matchNumber": 22,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-17T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": "angleterre",
+    "awayId": "croatie"
+  },
+  {
+    "matchNumber": 23,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-17T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Houston Stadium",
+    "homeId": "portugal",
+    "awayId": "rd-congo"
+  },
+  {
+    "matchNumber": 24,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-18T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Mexico City Stadium",
+    "homeId": "ouzbekistan",
+    "awayId": "colombie"
+  },
+  {
+    "matchNumber": 25,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-18T18:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Atlanta Stadium",
+    "homeId": "republique-tcheque",
+    "awayId": "afrique-du-sud"
+  },
+  {
+    "matchNumber": 26,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-18T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": "suisse",
+    "awayId": "bosnie-herzegovine"
+  },
+  {
+    "matchNumber": 27,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-19T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "BC Place Vancouver",
+    "homeId": "canada",
+    "awayId": "qatar"
+  },
+  {
+    "matchNumber": 28,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-19T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Guadalajara",
+    "homeId": "mexique",
+    "awayId": "coree-du-sud"
+  },
+  {
+    "matchNumber": 29,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-20T02:30:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Philadelphia Stadium",
+    "homeId": "bresil",
+    "awayId": "haiti"
+  },
+  {
+    "matchNumber": 30,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-20T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Boston Stadium",
+    "homeId": "ecosse",
+    "awayId": "maroc"
+  },
+  {
+    "matchNumber": 31,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-20T05:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "San Francisco Bay Area Stadium",
+    "homeId": "turquie",
+    "awayId": "paraguay"
+  },
+  {
+    "matchNumber": 32,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-19T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Seattle Stadium",
+    "homeId": "etats-unis",
+    "awayId": "australie"
+  },
+  {
+    "matchNumber": 33,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-20T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Toronto Stadium",
+    "homeId": "allemagne",
+    "awayId": "cote-ivoire"
+  },
+  {
+    "matchNumber": 34,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-21T02:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Kansas City Stadium",
+    "homeId": "equateur",
+    "awayId": "curacao"
+  },
+  {
+    "matchNumber": 35,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-20T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Houston Stadium",
+    "homeId": "pays-bas",
+    "awayId": "suede"
+  },
+  {
+    "matchNumber": 36,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-20T06:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Monterrey",
+    "homeId": "tunisie",
+    "awayId": "japon"
+  },
+  {
+    "matchNumber": 37,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-22T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Miami Stadium",
+    "homeId": "uruguay",
+    "awayId": "cap-vert"
+  },
+  {
+    "matchNumber": 38,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-21T18:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Atlanta Stadium",
+    "homeId": "espagne",
+    "awayId": "arabie-saoudite"
+  },
+  {
+    "matchNumber": 39,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-21T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": "belgique",
+    "awayId": "iran"
+  },
+  {
+    "matchNumber": 40,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-22T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "BC Place Vancouver",
+    "homeId": "nouvelle-zelande",
+    "awayId": "egypte"
+  },
+  {
+    "matchNumber": 41,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-23T02:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "New York New Jersey Stadium",
+    "homeId": "norvege",
+    "awayId": "senegal"
+  },
+  {
+    "matchNumber": 42,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-22T23:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Philadelphia Stadium",
+    "homeId": "france",
+    "awayId": "irak"
+  },
+  {
+    "matchNumber": 43,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-22T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": "argentine",
+    "awayId": "autriche"
+  },
+  {
+    "matchNumber": 44,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-23T05:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "San Francisco Bay Area Stadium",
+    "homeId": "jordanie",
+    "awayId": "algerie"
+  },
+  {
+    "matchNumber": 45,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-23T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Boston Stadium",
+    "homeId": "angleterre",
+    "awayId": "ghana"
+  },
+  {
+    "matchNumber": 46,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-24T01:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Toronto Stadium",
+    "homeId": "panama",
+    "awayId": "croatie"
+  },
+  {
+    "matchNumber": 47,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-23T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Houston Stadium",
+    "homeId": "portugal",
+    "awayId": "ouzbekistan"
+  },
+  {
+    "matchNumber": 48,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-24T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Guadalajara",
+    "homeId": "colombie",
+    "awayId": "rd-congo"
+  },
+  {
+    "matchNumber": 49,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-25T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Miami Stadium",
+    "homeId": "ecosse",
+    "awayId": "bresil"
+  },
+  {
+    "matchNumber": 50,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-25T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Atlanta Stadium",
+    "homeId": "maroc",
+    "awayId": "haiti"
+  },
+  {
+    "matchNumber": 51,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-24T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "BC Place Vancouver",
+    "homeId": "suisse",
+    "awayId": "canada"
+  },
+  {
+    "matchNumber": 52,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-24T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Seattle Stadium",
+    "homeId": "bosnie-herzegovine",
+    "awayId": "qatar"
+  },
+  {
+    "matchNumber": 53,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-25T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Mexico City Stadium",
+    "homeId": "republique-tcheque",
+    "awayId": "mexique"
+  },
+  {
+    "matchNumber": 54,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-25T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Monterrey",
+    "homeId": "afrique-du-sud",
+    "awayId": "coree-du-sud"
+  },
+  {
+    "matchNumber": 55,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-25T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Philadelphia Stadium",
+    "homeId": "curacao",
+    "awayId": "cote-ivoire"
+  },
+  {
+    "matchNumber": 56,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-25T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "New York New Jersey Stadium",
+    "homeId": "equateur",
+    "awayId": "allemagne"
+  },
+  {
+    "matchNumber": 57,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-26T01:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": "japon",
+    "awayId": "suede"
+  },
+  {
+    "matchNumber": 58,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-26T01:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Kansas City Stadium",
+    "homeId": "tunisie",
+    "awayId": "pays-bas"
+  },
+  {
+    "matchNumber": 59,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-26T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": "turquie",
+    "awayId": "etats-unis"
+  },
+  {
+    "matchNumber": 60,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-26T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "San Francisco Bay Area Stadium",
+    "homeId": "paraguay",
+    "awayId": "australie"
+  },
+  {
+    "matchNumber": 61,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-26T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Boston Stadium",
+    "homeId": "norvege",
+    "awayId": "france"
+  },
+  {
+    "matchNumber": 62,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-26T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Toronto Stadium",
+    "homeId": "senegal",
+    "awayId": "irak"
+  },
+  {
+    "matchNumber": 63,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-27T05:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Seattle Stadium",
+    "homeId": "egypte",
+    "awayId": "iran"
+  },
+  {
+    "matchNumber": 64,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-27T05:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "BC Place Vancouver",
+    "homeId": "nouvelle-zelande",
+    "awayId": "belgique"
+  },
+  {
+    "matchNumber": 65,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-27T02:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Houston Stadium",
+    "homeId": "cap-vert",
+    "awayId": "arabie-saoudite"
+  },
+  {
+    "matchNumber": 66,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-27T02:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Guadalajara",
+    "homeId": "uruguay",
+    "awayId": "espagne"
+  },
+  {
+    "matchNumber": 67,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-27T23:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "New York New Jersey Stadium",
+    "homeId": "panama",
+    "awayId": "angleterre"
+  },
+  {
+    "matchNumber": 68,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-27T23:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Philadelphia Stadium",
+    "homeId": "croatie",
+    "awayId": "ghana"
+  },
+  {
+    "matchNumber": 69,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-28T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Kansas City Stadium",
+    "homeId": "algerie",
+    "awayId": "autriche"
+  },
+  {
+    "matchNumber": 70,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-28T04:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": "jordanie",
+    "awayId": "argentine"
+  },
+  {
+    "matchNumber": 71,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-28T01:30:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Miami Stadium",
+    "homeId": "colombie",
+    "awayId": "portugal"
+  },
+  {
+    "matchNumber": 72,
+    "stage": "GROUP_STAGE",
+    "date": "2026-06-28T01:30:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Atlanta Stadium",
+    "homeId": "rd-congo",
+    "awayId": "ouzbekistan"
+  },
+  {
+    "matchNumber": 73,
+    "stage": "LAST_32",
+    "date": "2026-06-28T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 74,
+    "stage": "LAST_32",
+    "date": "2026-06-29T22:30:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Boston Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 75,
+    "stage": "LAST_32",
+    "date": "2026-06-30T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Estadio Monterrey",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 76,
+    "stage": "LAST_32",
+    "date": "2026-06-29T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Houston Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 77,
+    "stage": "LAST_32",
+    "date": "2026-06-30T23:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "New York New Jersey Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 78,
+    "stage": "LAST_32",
+    "date": "2026-06-30T19:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 79,
+    "stage": "LAST_32",
+    "date": "2026-07-01T03:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Mexico City Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 80,
+    "stage": "LAST_32",
+    "date": "2026-07-01T18:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Atlanta Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 81,
+    "stage": "LAST_32",
+    "date": "2026-07-02T02:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "San Francisco Bay Area Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 82,
+    "stage": "LAST_32",
+    "date": "2026-07-01T22:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Seattle Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 83,
+    "stage": "LAST_32",
+    "date": "2026-07-03T01:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Toronto Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 84,
+    "stage": "LAST_32",
+    "date": "2026-07-02T21:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Los Angeles Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 85,
+    "stage": "LAST_32",
+    "date": "2026-07-03T05:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "BC Place Vancouver",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 86,
+    "stage": "LAST_32",
+    "date": "2026-07-04T00:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Miami Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 87,
+    "stage": "LAST_32",
+    "date": "2026-07-04T03:30:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Kansas City Stadium",
+    "homeId": null,
+    "awayId": null
+  },
+  {
+    "matchNumber": 88,
+    "stage": "LAST_32",
+    "date": "2026-07-03T20:00:00+02:00",
+    "timeConfirmed": true,
+    "stadium": "Dallas Stadium",
+    "homeId": null,
+    "awayId": null
+  }
+]

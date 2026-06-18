@@ -1,0 +1,434 @@
+[
+  {
+    "id": "mexique",
+    "name": "Mexique",
+    "group": "Groupe A",
+    "colors": [
+      "#006847",
+      "#CE1126"
+    ]
+  },
+  {
+    "id": "afrique-du-sud",
+    "name": "Afrique du Sud",
+    "group": "Groupe A",
+    "colors": [
+      "#007A4D",
+      "#FFB81C"
+    ]
+  },
+  {
+    "id": "coree-du-sud",
+    "name": "Corée du Sud",
+    "group": "Groupe A",
+    "colors": [
+      "#C60C30",
+      "#003478"
+    ]
+  },
+  {
+    "id": "republique-tcheque",
+    "name": "République tchèque",
+    "group": "Groupe A",
+    "colors": [
+      "#11457E",
+      "#D7141A"
+    ]
+  },
+  {
+    "id": "bosnie-herzegovine",
+    "name": "Bosnie-Herzégovine",
+    "group": "Groupe B",
+    "colors": [
+      "#002395",
+      "#FECB00"
+    ]
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "group": "Groupe B",
+    "colors": [
+      "#D52B1E",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "group": "Groupe B",
+    "colors": [
+      "#8A1538",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "suisse",
+    "name": "Suisse",
+    "group": "Groupe B",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "bresil",
+    "name": "Brésil",
+    "group": "Groupe C",
+    "colors": [
+      "#009739",
+      "#FEDD00"
+    ]
+  },
+  {
+    "id": "haiti",
+    "name": "Haïti",
+    "group": "Groupe C",
+    "colors": [
+      "#00209F",
+      "#D21034"
+    ]
+  },
+  {
+    "id": "maroc",
+    "name": "Maroc",
+    "group": "Groupe C",
+    "colors": [
+      "#C1272D",
+      "#006233"
+    ]
+  },
+  {
+    "id": "ecosse",
+    "name": "Écosse",
+    "group": "Groupe C",
+    "colors": [
+      "#005EB8",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "australie",
+    "name": "Australie",
+    "group": "Groupe D",
+    "colors": [
+      "#012169",
+      "#FFCD00"
+    ]
+  },
+  {
+    "id": "etats-unis",
+    "name": "États-Unis",
+    "group": "Groupe D",
+    "colors": [
+      "#3C3B6E",
+      "#B22234"
+    ]
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "group": "Groupe D",
+    "colors": [
+      "#0038A8",
+      "#D52B1E"
+    ]
+  },
+  {
+    "id": "turquie",
+    "name": "Turquie",
+    "group": "Groupe D",
+    "colors": [
+      "#E30A17",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "group": "Groupe E",
+    "colors": [
+      "#002B7F",
+      "#F9E814"
+    ]
+  },
+  {
+    "id": "equateur",
+    "name": "Équateur",
+    "group": "Groupe E",
+    "colors": [
+      "#FFD100",
+      "#EF3340"
+    ]
+  },
+  {
+    "id": "allemagne",
+    "name": "Allemagne",
+    "group": "Groupe E",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ]
+  },
+  {
+    "id": "cote-ivoire",
+    "name": "Côte d’Ivoire",
+    "group": "Groupe E",
+    "colors": [
+      "#F77F00",
+      "#009E60"
+    ]
+  },
+  {
+    "id": "japon",
+    "name": "Japon",
+    "group": "Groupe F",
+    "colors": [
+      "#BC002D",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "pays-bas",
+    "name": "Pays-Bas",
+    "group": "Groupe F",
+    "colors": [
+      "#21468B",
+      "#FF4F00"
+    ]
+  },
+  {
+    "id": "suede",
+    "name": "Suède",
+    "group": "Groupe F",
+    "colors": [
+      "#006AA7",
+      "#FECC00"
+    ]
+  },
+  {
+    "id": "tunisie",
+    "name": "Tunisie",
+    "group": "Groupe F",
+    "colors": [
+      "#E70013",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "belgique",
+    "name": "Belgique",
+    "group": "Groupe G",
+    "colors": [
+      "#000000",
+      "#FFD90C"
+    ]
+  },
+  {
+    "id": "egypte",
+    "name": "Égypte",
+    "group": "Groupe G",
+    "colors": [
+      "#CE1126",
+      "#000000"
+    ]
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "group": "Groupe G",
+    "colors": [
+      "#239F40",
+      "#DA0000"
+    ]
+  },
+  {
+    "id": "nouvelle-zelande",
+    "name": "Nouvelle-Zélande",
+    "group": "Groupe G",
+    "colors": [
+      "#00247D",
+      "#CC142B"
+    ]
+  },
+  {
+    "id": "cap-vert",
+    "name": "Cap-Vert",
+    "group": "Groupe H",
+    "colors": [
+      "#003893",
+      "#CF2027"
+    ]
+  },
+  {
+    "id": "arabie-saoudite",
+    "name": "Arabie saoudite",
+    "group": "Groupe H",
+    "colors": [
+      "#006C35",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "espagne",
+    "name": "Espagne",
+    "group": "Groupe H",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ]
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "group": "Groupe H",
+    "colors": [
+      "#0038A8",
+      "#FCD116"
+    ]
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "group": "Groupe I",
+    "colors": [
+      "#002395",
+      "#ED2939"
+    ]
+  },
+  {
+    "id": "irak",
+    "name": "Irak",
+    "group": "Groupe I",
+    "colors": [
+      "#CE1126",
+      "#000000"
+    ]
+  },
+  {
+    "id": "norvege",
+    "name": "Norvège",
+    "group": "Groupe I",
+    "colors": [
+      "#BA0C2F",
+      "#00205B"
+    ]
+  },
+  {
+    "id": "senegal",
+    "name": "Sénégal",
+    "group": "Groupe I",
+    "colors": [
+      "#00853F",
+      "#FDEF42"
+    ]
+  },
+  {
+    "id": "algerie",
+    "name": "Algérie",
+    "group": "Groupe J",
+    "colors": [
+      "#006233",
+      "#D21034"
+    ]
+  },
+  {
+    "id": "autriche",
+    "name": "Autriche",
+    "group": "Groupe J",
+    "colors": [
+      "#ED2939",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "jordanie",
+    "name": "Jordanie",
+    "group": "Groupe J",
+    "colors": [
+      "#007A3D",
+      "#CE1126"
+    ]
+  },
+  {
+    "id": "argentine",
+    "name": "Argentine",
+    "group": "Groupe J",
+    "colors": [
+      "#75AADB",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "colombie",
+    "name": "Colombie",
+    "group": "Groupe K",
+    "colors": [
+      "#FCD116",
+      "#003893"
+    ]
+  },
+  {
+    "id": "rd-congo",
+    "name": "RD Congo",
+    "group": "Groupe K",
+    "colors": [
+      "#007FFF",
+      "#F7D618"
+    ]
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "group": "Groupe K",
+    "colors": [
+      "#006600",
+      "#FF0000"
+    ]
+  },
+  {
+    "id": "ouzbekistan",
+    "name": "Ouzbékistan",
+    "group": "Groupe K",
+    "colors": [
+      "#0099B5",
+      "#1EB53A"
+    ]
+  },
+  {
+    "id": "croatie",
+    "name": "Croatie",
+    "group": "Groupe L",
+    "colors": [
+      "#F00000",
+      "#171796"
+    ]
+  },
+  {
+    "id": "angleterre",
+    "name": "Angleterre",
+    "group": "Groupe L",
+    "colors": [
+      "#FFFFFF",
+      "#C8102E"
+    ]
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "group": "Groupe L",
+    "colors": [
+      "#CE1126",
+      "#FCD116"
+    ]
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "group": "Groupe L",
+    "colors": [
+      "#005293",
+      "#D21034"
+    ]
+  }
+]

@@ -1,6 +1,8 @@
 # Mise a jour des resultats
 
-L'application lit `live-data.json` toutes les six heures et lors d'une actualisation manuelle.
+`live-data.json` est maintenant destine a etre regenere automatiquement par GitHub Actions toutes les 15 minutes via `scripts/update_live_data.py`.
+
+Le workflow attend un secret GitHub nomme `FOOTBALL_DATA_API_KEY`, avec une cle API `football-data.org` stockee cote serveur.
 
 Exemple pour le match 17 :
 
