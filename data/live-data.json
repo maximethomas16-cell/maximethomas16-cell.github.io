@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-20T19:44:48.551012+02:00",
+  "updatedAt": "2026-06-20T20:59:57.481733+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -240,8 +240,8 @@
       "matchNumber": 35,
       "status": "LIVE",
       "date": "2026-06-20T19:00:00+02:00",
-      "homeScore": 2,
-      "awayScore": 0
+      "homeScore": 5,
+      "awayScore": 1
     },
     {
       "matchNumber": 36,
