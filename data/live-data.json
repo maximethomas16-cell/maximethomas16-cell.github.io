@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-23T20:29:21.510482+02:00",
+  "updatedAt": "2026-06-23T22:34:00.341011+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -313,7 +313,9 @@
     {
       "matchNumber": 45,
       "status": "SCHEDULED",
-      "date": "2026-06-23T22:00:00+02:00"
+      "date": "2026-06-23T22:00:00+02:00",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 46,
@@ -322,9 +324,9 @@
     },
     {
       "matchNumber": 47,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-06-23T19:00:00+02:00",
-      "homeScore": 3,
+      "homeScore": 5,
       "awayScore": 0
     },
     {
