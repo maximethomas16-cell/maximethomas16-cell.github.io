@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-01T23:56:56.774040+02:00",
+  "updatedAt": "2026-07-02T01:10:02.169926+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -893,13 +893,13 @@
     },
     {
       "matchNumber": 82,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-01T22:00:00+02:00",
       "home": "Belgium",
       "away": "Senegal",
       "homeId": "belgique",
       "awayId": "senegal",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 2
     },
     {
