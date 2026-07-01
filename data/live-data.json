@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-01T18:01:34.767518+02:00",
+  "updatedAt": "2026-07-01T20:14:58.032923+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -873,12 +873,14 @@
     },
     {
       "matchNumber": 80,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "date": "2026-07-01T18:00:00+02:00",
       "home": "England",
       "away": "Congo DR",
       "homeId": "angleterre",
-      "awayId": "rd-congo"
+      "awayId": "rd-congo",
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "matchNumber": 81,
