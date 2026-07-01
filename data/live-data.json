@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-01T12:39:13.598856+02:00",
+  "updatedAt": "2026-07-01T14:11:08.928051+02:00",
   "matches": [
     {
       "matchNumber": 1,
       "status": "FINISHED",
       "date": "2026-06-11T21:00:00+02:00",
+      "home": "Mexico",
+      "away": "South Africa",
+      "homeId": "mexique",
+      "awayId": "afrique-du-sud",
       "homeScore": 2,
       "awayScore": 0
     },
@@ -13,6 +17,10 @@
       "matchNumber": 2,
       "status": "FINISHED",
       "date": "2026-06-12T04:00:00+02:00",
+      "home": "South Korea",
+      "away": "Czechia",
+      "homeId": "coree-du-sud",
+      "awayId": "republique-tcheque",
       "homeScore": 2,
       "awayScore": 1
     },
@@ -20,6 +28,10 @@
       "matchNumber": 3,
       "status": "FINISHED",
       "date": "2026-06-12T21:00:00+02:00",
+      "home": "Canada",
+      "away": "Bosnia-Herzegovina",
+      "homeId": "canada",
+      "awayId": "bosnie-herzegovine",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -27,6 +39,10 @@
       "matchNumber": 4,
       "status": "FINISHED",
       "date": "2026-06-13T03:00:00+02:00",
+      "home": "United States",
+      "away": "Paraguay",
+      "homeId": "etats-unis",
+      "awayId": "paraguay",
       "homeScore": 4,
       "awayScore": 1
     },
@@ -34,6 +50,10 @@
       "matchNumber": 5,
       "status": "FINISHED",
       "date": "2026-06-14T03:00:00+02:00",
+      "home": "Haiti",
+      "away": "Scotland",
+      "homeId": "haiti",
+      "awayId": "ecosse",
       "homeScore": 0,
       "awayScore": 1
     },
@@ -41,6 +61,10 @@
       "matchNumber": 6,
       "status": "FINISHED",
       "date": "2026-06-14T06:00:00+02:00",
+      "home": "Australia",
+      "away": "Turkey",
+      "homeId": "australie",
+      "awayId": "turquie",
       "homeScore": 2,
       "awayScore": 0
     },
@@ -48,6 +72,10 @@
       "matchNumber": 7,
       "status": "FINISHED",
       "date": "2026-06-14T00:00:00+02:00",
+      "home": "Brazil",
+      "away": "Morocco",
+      "homeId": "bresil",
+      "awayId": "maroc",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -55,6 +83,10 @@
       "matchNumber": 8,
       "status": "FINISHED",
       "date": "2026-06-13T21:00:00+02:00",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "homeId": "qatar",
+      "awayId": "suisse",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -62,6 +94,10 @@
       "matchNumber": 9,
       "status": "FINISHED",
       "date": "2026-06-15T01:00:00+02:00",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "homeId": "cote-ivoire",
+      "awayId": "equateur",
       "homeScore": 1,
       "awayScore": 0
     },
@@ -69,6 +105,10 @@
       "matchNumber": 10,
       "status": "FINISHED",
       "date": "2026-06-14T19:00:00+02:00",
+      "home": "Germany",
+      "away": "Curaçao",
+      "homeId": "allemagne",
+      "awayId": "curacao",
       "homeScore": 7,
       "awayScore": 1
     },
@@ -76,6 +116,10 @@
       "matchNumber": 11,
       "status": "FINISHED",
       "date": "2026-06-14T22:00:00+02:00",
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeId": "pays-bas",
+      "awayId": "japon",
       "homeScore": 2,
       "awayScore": 2
     },
@@ -83,6 +127,10 @@
       "matchNumber": 12,
       "status": "FINISHED",
       "date": "2026-06-15T04:00:00+02:00",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeId": "suede",
+      "awayId": "tunisie",
       "homeScore": 5,
       "awayScore": 1
     },
@@ -90,6 +138,10 @@
       "matchNumber": 13,
       "status": "FINISHED",
       "date": "2026-06-16T00:00:00+02:00",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "homeId": "arabie-saoudite",
+      "awayId": "uruguay",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -97,6 +149,10 @@
       "matchNumber": 14,
       "status": "FINISHED",
       "date": "2026-06-15T18:00:00+02:00",
+      "home": "Spain",
+      "away": "Cape Verde Islands",
+      "homeId": "espagne",
+      "awayId": "cap-vert",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -104,6 +160,10 @@
       "matchNumber": 15,
       "status": "FINISHED",
       "date": "2026-06-16T03:00:00+02:00",
+      "home": "Iran",
+      "away": "New Zealand",
+      "homeId": "iran",
+      "awayId": "nouvelle-zelande",
       "homeScore": 2,
       "awayScore": 2
     },
@@ -111,6 +171,10 @@
       "matchNumber": 16,
       "status": "FINISHED",
       "date": "2026-06-15T21:00:00+02:00",
+      "home": "Belgium",
+      "away": "Egypt",
+      "homeId": "belgique",
+      "awayId": "egypte",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -118,6 +182,10 @@
       "matchNumber": 17,
       "status": "FINISHED",
       "date": "2026-06-16T21:00:00+02:00",
+      "home": "France",
+      "away": "Senegal",
+      "homeId": "france",
+      "awayId": "senegal",
       "homeScore": 3,
       "awayScore": 1
     },
@@ -125,6 +193,10 @@
       "matchNumber": 18,
       "status": "FINISHED",
       "date": "2026-06-17T00:00:00+02:00",
+      "home": "Iraq",
+      "away": "Norway",
+      "homeId": "irak",
+      "awayId": "norvege",
       "homeScore": 1,
       "awayScore": 4
     },
@@ -132,6 +204,10 @@
       "matchNumber": 19,
       "status": "FINISHED",
       "date": "2026-06-17T03:00:00+02:00",
+      "home": "Argentina",
+      "away": "Algeria",
+      "homeId": "argentine",
+      "awayId": "algerie",
       "homeScore": 3,
       "awayScore": 0
     },
@@ -139,6 +215,10 @@
       "matchNumber": 20,
       "status": "FINISHED",
       "date": "2026-06-17T06:00:00+02:00",
+      "home": "Austria",
+      "away": "Jordan",
+      "homeId": "autriche",
+      "awayId": "jordanie",
       "homeScore": 3,
       "awayScore": 1
     },
@@ -146,6 +226,10 @@
       "matchNumber": 21,
       "status": "FINISHED",
       "date": "2026-06-18T01:00:00+02:00",
+      "home": "Ghana",
+      "away": "Panama",
+      "homeId": "ghana",
+      "awayId": "panama",
       "homeScore": 1,
       "awayScore": 0
     },
@@ -153,6 +237,10 @@
       "matchNumber": 22,
       "status": "FINISHED",
       "date": "2026-06-17T22:00:00+02:00",
+      "home": "England",
+      "away": "Croatia",
+      "homeId": "angleterre",
+      "awayId": "croatie",
       "homeScore": 4,
       "awayScore": 2
     },
@@ -160,6 +248,10 @@
       "matchNumber": 23,
       "status": "FINISHED",
       "date": "2026-06-17T19:00:00+02:00",
+      "home": "Portugal",
+      "away": "Congo DR",
+      "homeId": "portugal",
+      "awayId": "rd-congo",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -167,6 +259,10 @@
       "matchNumber": 24,
       "status": "FINISHED",
       "date": "2026-06-18T04:00:00+02:00",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeId": "ouzbekistan",
+      "awayId": "colombie",
       "homeScore": 1,
       "awayScore": 3
     },
@@ -174,6 +270,10 @@
       "matchNumber": 25,
       "status": "FINISHED",
       "date": "2026-06-18T18:00:00+02:00",
+      "home": "Czechia",
+      "away": "South Africa",
+      "homeId": "republique-tcheque",
+      "awayId": "afrique-du-sud",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -181,6 +281,10 @@
       "matchNumber": 26,
       "status": "FINISHED",
       "date": "2026-06-18T21:00:00+02:00",
+      "home": "Switzerland",
+      "away": "Bosnia-Herzegovina",
+      "homeId": "suisse",
+      "awayId": "bosnie-herzegovine",
       "homeScore": 4,
       "awayScore": 1
     },
@@ -188,6 +292,10 @@
       "matchNumber": 27,
       "status": "FINISHED",
       "date": "2026-06-19T00:00:00+02:00",
+      "home": "Canada",
+      "away": "Qatar",
+      "homeId": "canada",
+      "awayId": "qatar",
       "homeScore": 6,
       "awayScore": 0
     },
@@ -195,6 +303,10 @@
       "matchNumber": 28,
       "status": "FINISHED",
       "date": "2026-06-19T03:00:00+02:00",
+      "home": "Mexico",
+      "away": "South Korea",
+      "homeId": "mexique",
+      "awayId": "coree-du-sud",
       "homeScore": 1,
       "awayScore": 0
     },
@@ -202,6 +314,10 @@
       "matchNumber": 29,
       "status": "FINISHED",
       "date": "2026-06-20T02:30:00+02:00",
+      "home": "Brazil",
+      "away": "Haiti",
+      "homeId": "bresil",
+      "awayId": "haiti",
       "homeScore": 3,
       "awayScore": 0
     },
@@ -209,6 +325,10 @@
       "matchNumber": 30,
       "status": "FINISHED",
       "date": "2026-06-20T00:00:00+02:00",
+      "home": "Scotland",
+      "away": "Morocco",
+      "homeId": "ecosse",
+      "awayId": "maroc",
       "homeScore": 0,
       "awayScore": 1
     },
@@ -216,6 +336,10 @@
       "matchNumber": 31,
       "status": "FINISHED",
       "date": "2026-06-20T05:00:00+02:00",
+      "home": "Turkey",
+      "away": "Paraguay",
+      "homeId": "turquie",
+      "awayId": "paraguay",
       "homeScore": 0,
       "awayScore": 1
     },
@@ -223,6 +347,10 @@
       "matchNumber": 32,
       "status": "FINISHED",
       "date": "2026-06-19T21:00:00+02:00",
+      "home": "United States",
+      "away": "Australia",
+      "homeId": "etats-unis",
+      "awayId": "australie",
       "homeScore": 2,
       "awayScore": 0
     },
@@ -230,6 +358,10 @@
       "matchNumber": 33,
       "status": "FINISHED",
       "date": "2026-06-20T22:00:00+02:00",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "homeId": "allemagne",
+      "awayId": "cote-ivoire",
       "homeScore": 2,
       "awayScore": 1
     },
@@ -237,6 +369,10 @@
       "matchNumber": 34,
       "status": "FINISHED",
       "date": "2026-06-21T02:00:00+02:00",
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "homeId": "equateur",
+      "awayId": "curacao",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -244,6 +380,10 @@
       "matchNumber": 35,
       "status": "FINISHED",
       "date": "2026-06-20T19:00:00+02:00",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "homeId": "pays-bas",
+      "awayId": "suede",
       "homeScore": 5,
       "awayScore": 1
     },
@@ -251,6 +391,10 @@
       "matchNumber": 36,
       "status": "FINISHED",
       "date": "2026-06-21T06:00:00+02:00",
+      "home": "Tunisia",
+      "away": "Japan",
+      "homeId": "tunisie",
+      "awayId": "japon",
       "homeScore": 0,
       "awayScore": 4
     },
@@ -258,6 +402,10 @@
       "matchNumber": 37,
       "status": "FINISHED",
       "date": "2026-06-22T00:00:00+02:00",
+      "home": "Uruguay",
+      "away": "Cape Verde Islands",
+      "homeId": "uruguay",
+      "awayId": "cap-vert",
       "homeScore": 2,
       "awayScore": 2
     },
@@ -265,6 +413,10 @@
       "matchNumber": 38,
       "status": "FINISHED",
       "date": "2026-06-21T18:00:00+02:00",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "homeId": "espagne",
+      "awayId": "arabie-saoudite",
       "homeScore": 4,
       "awayScore": 0
     },
@@ -272,6 +424,10 @@
       "matchNumber": 39,
       "status": "FINISHED",
       "date": "2026-06-21T21:00:00+02:00",
+      "home": "Belgium",
+      "away": "Iran",
+      "homeId": "belgique",
+      "awayId": "iran",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -279,6 +435,10 @@
       "matchNumber": 40,
       "status": "FINISHED",
       "date": "2026-06-22T03:00:00+02:00",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "homeId": "nouvelle-zelande",
+      "awayId": "egypte",
       "homeScore": 1,
       "awayScore": 3
     },
@@ -286,6 +446,10 @@
       "matchNumber": 41,
       "status": "FINISHED",
       "date": "2026-06-23T02:00:00+02:00",
+      "home": "Norway",
+      "away": "Senegal",
+      "homeId": "norvege",
+      "awayId": "senegal",
       "homeScore": 3,
       "awayScore": 2
     },
@@ -293,6 +457,10 @@
       "matchNumber": 42,
       "status": "FINISHED",
       "date": "2026-06-22T23:00:00+02:00",
+      "home": "France",
+      "away": "Iraq",
+      "homeId": "france",
+      "awayId": "irak",
       "homeScore": 3,
       "awayScore": 0
     },
@@ -300,6 +468,10 @@
       "matchNumber": 43,
       "status": "FINISHED",
       "date": "2026-06-22T19:00:00+02:00",
+      "home": "Argentina",
+      "away": "Austria",
+      "homeId": "argentine",
+      "awayId": "autriche",
       "homeScore": 2,
       "awayScore": 0
     },
@@ -307,6 +479,10 @@
       "matchNumber": 44,
       "status": "FINISHED",
       "date": "2026-06-23T05:00:00+02:00",
+      "home": "Jordan",
+      "away": "Algeria",
+      "homeId": "jordanie",
+      "awayId": "algerie",
       "homeScore": 1,
       "awayScore": 2
     },
@@ -314,6 +490,10 @@
       "matchNumber": 45,
       "status": "FINISHED",
       "date": "2026-06-23T22:00:00+02:00",
+      "home": "England",
+      "away": "Ghana",
+      "homeId": "angleterre",
+      "awayId": "ghana",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -321,6 +501,10 @@
       "matchNumber": 46,
       "status": "FINISHED",
       "date": "2026-06-24T01:00:00+02:00",
+      "home": "Panama",
+      "away": "Croatia",
+      "homeId": "panama",
+      "awayId": "croatie",
       "homeScore": 0,
       "awayScore": 1
     },
@@ -328,6 +512,10 @@
       "matchNumber": 47,
       "status": "FINISHED",
       "date": "2026-06-23T19:00:00+02:00",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "homeId": "portugal",
+      "awayId": "ouzbekistan",
       "homeScore": 5,
       "awayScore": 0
     },
@@ -335,6 +523,10 @@
       "matchNumber": 48,
       "status": "FINISHED",
       "date": "2026-06-24T04:00:00+02:00",
+      "home": "Colombia",
+      "away": "Congo DR",
+      "homeId": "colombie",
+      "awayId": "rd-congo",
       "homeScore": 1,
       "awayScore": 0
     },
@@ -342,6 +534,10 @@
       "matchNumber": 49,
       "status": "FINISHED",
       "date": "2026-06-25T00:00:00+02:00",
+      "home": "Scotland",
+      "away": "Brazil",
+      "homeId": "ecosse",
+      "awayId": "bresil",
       "homeScore": 0,
       "awayScore": 3
     },
@@ -349,6 +545,10 @@
       "matchNumber": 50,
       "status": "FINISHED",
       "date": "2026-06-25T00:00:00+02:00",
+      "home": "Morocco",
+      "away": "Haiti",
+      "homeId": "maroc",
+      "awayId": "haiti",
       "homeScore": 4,
       "awayScore": 2
     },
@@ -356,6 +556,10 @@
       "matchNumber": 51,
       "status": "FINISHED",
       "date": "2026-06-24T21:00:00+02:00",
+      "home": "Switzerland",
+      "away": "Canada",
+      "homeId": "suisse",
+      "awayId": "canada",
       "homeScore": 2,
       "awayScore": 1
     },
@@ -363,6 +567,10 @@
       "matchNumber": 52,
       "status": "FINISHED",
       "date": "2026-06-24T21:00:00+02:00",
+      "home": "Bosnia-Herzegovina",
+      "away": "Qatar",
+      "homeId": "bosnie-herzegovine",
+      "awayId": "qatar",
       "homeScore": 3,
       "awayScore": 1
     },
@@ -370,6 +578,10 @@
       "matchNumber": 53,
       "status": "FINISHED",
       "date": "2026-06-25T03:00:00+02:00",
+      "home": "Czechia",
+      "away": "Mexico",
+      "homeId": "republique-tcheque",
+      "awayId": "mexique",
       "homeScore": 0,
       "awayScore": 3
     },
@@ -377,6 +589,10 @@
       "matchNumber": 54,
       "status": "FINISHED",
       "date": "2026-06-25T03:00:00+02:00",
+      "home": "South Africa",
+      "away": "South Korea",
+      "homeId": "afrique-du-sud",
+      "awayId": "coree-du-sud",
       "homeScore": 1,
       "awayScore": 0
     },
@@ -384,6 +600,10 @@
       "matchNumber": 55,
       "status": "FINISHED",
       "date": "2026-06-25T22:00:00+02:00",
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "homeId": "curacao",
+      "awayId": "cote-ivoire",
       "homeScore": 0,
       "awayScore": 2
     },
@@ -391,6 +611,10 @@
       "matchNumber": 56,
       "status": "FINISHED",
       "date": "2026-06-25T22:00:00+02:00",
+      "home": "Ecuador",
+      "away": "Germany",
+      "homeId": "equateur",
+      "awayId": "allemagne",
       "homeScore": 2,
       "awayScore": 1
     },
@@ -398,6 +622,10 @@
       "matchNumber": 57,
       "status": "FINISHED",
       "date": "2026-06-26T01:00:00+02:00",
+      "home": "Japan",
+      "away": "Sweden",
+      "homeId": "japon",
+      "awayId": "suede",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -405,6 +633,10 @@
       "matchNumber": 58,
       "status": "FINISHED",
       "date": "2026-06-26T01:00:00+02:00",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "homeId": "tunisie",
+      "awayId": "pays-bas",
       "homeScore": 1,
       "awayScore": 3
     },
@@ -412,6 +644,10 @@
       "matchNumber": 59,
       "status": "FINISHED",
       "date": "2026-06-26T04:00:00+02:00",
+      "home": "Turkey",
+      "away": "United States",
+      "homeId": "turquie",
+      "awayId": "etats-unis",
       "homeScore": 3,
       "awayScore": 2
     },
@@ -419,6 +655,10 @@
       "matchNumber": 60,
       "status": "FINISHED",
       "date": "2026-06-26T04:00:00+02:00",
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeId": "paraguay",
+      "awayId": "australie",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -426,6 +666,10 @@
       "matchNumber": 61,
       "status": "FINISHED",
       "date": "2026-06-26T21:00:00+02:00",
+      "home": "Norway",
+      "away": "France",
+      "homeId": "norvege",
+      "awayId": "france",
       "homeScore": 1,
       "awayScore": 4
     },
@@ -433,6 +677,10 @@
       "matchNumber": 62,
       "status": "FINISHED",
       "date": "2026-06-26T21:00:00+02:00",
+      "home": "Senegal",
+      "away": "Iraq",
+      "homeId": "senegal",
+      "awayId": "irak",
       "homeScore": 5,
       "awayScore": 0
     },
@@ -440,6 +688,10 @@
       "matchNumber": 63,
       "status": "FINISHED",
       "date": "2026-06-27T05:00:00+02:00",
+      "home": "Egypt",
+      "away": "Iran",
+      "homeId": "egypte",
+      "awayId": "iran",
       "homeScore": 1,
       "awayScore": 1
     },
@@ -447,6 +699,10 @@
       "matchNumber": 64,
       "status": "FINISHED",
       "date": "2026-06-27T05:00:00+02:00",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "homeId": "nouvelle-zelande",
+      "awayId": "belgique",
       "homeScore": 1,
       "awayScore": 5
     },
@@ -454,6 +710,10 @@
       "matchNumber": 65,
       "status": "FINISHED",
       "date": "2026-06-27T02:00:00+02:00",
+      "home": "Cape Verde Islands",
+      "away": "Saudi Arabia",
+      "homeId": "cap-vert",
+      "awayId": "arabie-saoudite",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -461,6 +721,10 @@
       "matchNumber": 66,
       "status": "FINISHED",
       "date": "2026-06-27T02:00:00+02:00",
+      "home": "Uruguay",
+      "away": "Spain",
+      "homeId": "uruguay",
+      "awayId": "espagne",
       "homeScore": 0,
       "awayScore": 1
     },
@@ -468,6 +732,10 @@
       "matchNumber": 67,
       "status": "FINISHED",
       "date": "2026-06-27T23:00:00+02:00",
+      "home": "Panama",
+      "away": "England",
+      "homeId": "panama",
+      "awayId": "angleterre",
       "homeScore": 0,
       "awayScore": 2
     },
@@ -475,6 +743,10 @@
       "matchNumber": 68,
       "status": "FINISHED",
       "date": "2026-06-27T23:00:00+02:00",
+      "home": "Croatia",
+      "away": "Ghana",
+      "homeId": "croatie",
+      "awayId": "ghana",
       "homeScore": 2,
       "awayScore": 1
     },
@@ -482,6 +754,10 @@
       "matchNumber": 69,
       "status": "FINISHED",
       "date": "2026-06-28T04:00:00+02:00",
+      "home": "Algeria",
+      "away": "Austria",
+      "homeId": "algerie",
+      "awayId": "autriche",
       "homeScore": 3,
       "awayScore": 3
     },
@@ -489,6 +765,10 @@
       "matchNumber": 70,
       "status": "FINISHED",
       "date": "2026-06-28T04:00:00+02:00",
+      "home": "Jordan",
+      "away": "Argentina",
+      "homeId": "jordanie",
+      "awayId": "argentine",
       "homeScore": 1,
       "awayScore": 3
     },
@@ -496,6 +776,10 @@
       "matchNumber": 71,
       "status": "FINISHED",
       "date": "2026-06-28T01:30:00+02:00",
+      "home": "Colombia",
+      "away": "Portugal",
+      "homeId": "colombie",
+      "awayId": "portugal",
       "homeScore": 0,
       "awayScore": 0
     },
@@ -503,6 +787,10 @@
       "matchNumber": 72,
       "status": "FINISHED",
       "date": "2026-06-28T01:30:00+02:00",
+      "home": "Congo DR",
+      "away": "Uzbekistan",
+      "homeId": "rd-congo",
+      "awayId": "ouzbekistan",
       "homeScore": 3,
       "awayScore": 1
     },
@@ -510,6 +798,10 @@
       "matchNumber": 73,
       "status": "FINISHED",
       "date": "2026-06-28T21:00:00+02:00",
+      "home": "South Africa",
+      "away": "Canada",
+      "homeId": "afrique-du-sud",
+      "awayId": "canada",
       "homeScore": 0,
       "awayScore": 1
     },
@@ -517,6 +809,10 @@
       "matchNumber": 74,
       "status": "FINISHED",
       "date": "2026-06-29T22:30:00+02:00",
+      "home": "Germany",
+      "away": "Paraguay",
+      "homeId": "allemagne",
+      "awayId": "paraguay",
       "homeScore": 4,
       "awayScore": 5
     },
@@ -524,6 +820,10 @@
       "matchNumber": 75,
       "status": "FINISHED",
       "date": "2026-06-30T03:00:00+02:00",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "homeId": "pays-bas",
+      "awayId": "maroc",
       "homeScore": 3,
       "awayScore": 4
     },
@@ -531,6 +831,10 @@
       "matchNumber": 76,
       "status": "FINISHED",
       "date": "2026-06-29T19:00:00+02:00",
+      "home": "Brazil",
+      "away": "Japan",
+      "homeId": "bresil",
+      "awayId": "japon",
       "homeScore": 2,
       "awayScore": 1
     },
@@ -538,6 +842,10 @@
       "matchNumber": 77,
       "status": "FINISHED",
       "date": "2026-06-30T23:00:00+02:00",
+      "home": "France",
+      "away": "Sweden",
+      "homeId": "france",
+      "awayId": "suede",
       "homeScore": 3,
       "awayScore": 0
     },
@@ -545,6 +853,10 @@
       "matchNumber": 78,
       "status": "FINISHED",
       "date": "2026-06-30T19:00:00+02:00",
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "homeId": "cote-ivoire",
+      "awayId": "norvege",
       "homeScore": 1,
       "awayScore": 2
     },
@@ -552,53 +864,185 @@
       "matchNumber": 79,
       "status": "FINISHED",
       "date": "2026-07-01T03:00:00+02:00",
+      "home": "Mexico",
+      "away": "Ecuador",
+      "homeId": "mexique",
+      "awayId": "equateur",
       "homeScore": 2,
       "awayScore": 0
     },
     {
       "matchNumber": 80,
       "status": "SCHEDULED",
-      "date": "2026-07-01T18:00:00+02:00"
+      "date": "2026-07-01T18:00:00+02:00",
+      "home": "England",
+      "away": "Congo DR",
+      "homeId": "angleterre",
+      "awayId": "rd-congo"
     },
     {
       "matchNumber": 81,
       "status": "SCHEDULED",
-      "date": "2026-07-02T02:00:00+02:00"
+      "date": "2026-07-02T02:00:00+02:00",
+      "home": "United States",
+      "away": "Bosnia-Herzegovina",
+      "homeId": "etats-unis",
+      "awayId": "bosnie-herzegovine"
     },
     {
       "matchNumber": 82,
       "status": "SCHEDULED",
-      "date": "2026-07-01T22:00:00+02:00"
+      "date": "2026-07-01T22:00:00+02:00",
+      "home": "Belgium",
+      "away": "Senegal",
+      "homeId": "belgique",
+      "awayId": "senegal"
     },
     {
       "matchNumber": 83,
       "status": "SCHEDULED",
-      "date": "2026-07-03T01:00:00+02:00"
+      "date": "2026-07-03T01:00:00+02:00",
+      "home": "Portugal",
+      "away": "Croatia",
+      "homeId": "portugal",
+      "awayId": "croatie"
     },
     {
       "matchNumber": 84,
       "status": "SCHEDULED",
-      "date": "2026-07-02T21:00:00+02:00"
+      "date": "2026-07-02T21:00:00+02:00",
+      "home": "Spain",
+      "away": "Austria",
+      "homeId": "espagne",
+      "awayId": "autriche"
     },
     {
       "matchNumber": 85,
       "status": "SCHEDULED",
-      "date": "2026-07-03T05:00:00+02:00"
+      "date": "2026-07-03T05:00:00+02:00",
+      "home": "Switzerland",
+      "away": "Algeria",
+      "homeId": "suisse",
+      "awayId": "algerie"
     },
     {
       "matchNumber": 86,
       "status": "SCHEDULED",
-      "date": "2026-07-04T00:00:00+02:00"
+      "date": "2026-07-04T00:00:00+02:00",
+      "home": "Argentina",
+      "away": "Cape Verde Islands",
+      "homeId": "argentine",
+      "awayId": "cap-vert"
     },
     {
       "matchNumber": 87,
       "status": "SCHEDULED",
-      "date": "2026-07-04T03:30:00+02:00"
+      "date": "2026-07-04T03:30:00+02:00",
+      "home": "Colombia",
+      "away": "Ghana",
+      "homeId": "colombie",
+      "awayId": "ghana"
     },
     {
       "matchNumber": 88,
       "status": "SCHEDULED",
-      "date": "2026-07-03T20:00:00+02:00"
+      "date": "2026-07-03T20:00:00+02:00",
+      "home": "Australia",
+      "away": "Egypt",
+      "homeId": "australie",
+      "awayId": "egypte"
+    },
+    {
+      "matchNumber": 89,
+      "status": "SCHEDULED",
+      "date": "2026-07-04T19:00:00+02:00",
+      "home": "Canada",
+      "away": "Morocco",
+      "homeId": "canada",
+      "awayId": "maroc"
+    },
+    {
+      "matchNumber": 90,
+      "status": "SCHEDULED",
+      "date": "2026-07-04T23:00:00+02:00",
+      "home": "Paraguay",
+      "away": "France",
+      "homeId": "paraguay",
+      "awayId": "france"
+    },
+    {
+      "matchNumber": 91,
+      "status": "SCHEDULED",
+      "date": "2026-07-05T22:00:00+02:00",
+      "home": "Brazil",
+      "away": "Norway",
+      "homeId": "bresil",
+      "awayId": "norvege"
+    },
+    {
+      "matchNumber": 92,
+      "status": "SCHEDULED",
+      "date": "2026-07-06T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 93,
+      "status": "SCHEDULED",
+      "date": "2026-07-06T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 94,
+      "status": "SCHEDULED",
+      "date": "2026-07-07T02:00:00+02:00"
+    },
+    {
+      "matchNumber": 95,
+      "status": "SCHEDULED",
+      "date": "2026-07-07T18:00:00+02:00"
+    },
+    {
+      "matchNumber": 96,
+      "status": "SCHEDULED",
+      "date": "2026-07-07T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 97,
+      "status": "SCHEDULED",
+      "date": "2026-07-09T22:00:00+02:00"
+    },
+    {
+      "matchNumber": 98,
+      "status": "SCHEDULED",
+      "date": "2026-07-10T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 99,
+      "status": "SCHEDULED",
+      "date": "2026-07-11T23:00:00+02:00"
+    },
+    {
+      "matchNumber": 100,
+      "status": "SCHEDULED",
+      "date": "2026-07-12T03:00:00+02:00"
+    },
+    {
+      "matchNumber": 101,
+      "status": "SCHEDULED",
+      "date": "2026-07-14T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 102,
+      "status": "SCHEDULED",
+      "date": "2026-07-15T21:00:00+02:00"
+    },
+    {
+      "matchNumber": 103,
+      "status": "SCHEDULED",
+      "date": "2026-07-18T23:00:00+02:00"
+    },
+    {
+      "matchNumber": 104,
+      "status": "SCHEDULED",
+      "date": "2026-07-19T21:00:00+02:00"
     }
   ]
 }

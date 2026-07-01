@@ -20,7 +20,23 @@ REFERENCE_DIR = ROOT_DIR / "scripts" / "reference"
 DEFAULT_OUTPUT_PATH = ROOT_DIR / "data" / "live-data.json"
 DEFAULT_INPUT_URL = "https://api.football-data.org/v4/competitions/WC/matches?season=2026"
 DISPLAY_TZ = ZoneInfo("Europe/Paris")
-SUPPORTED_STAGES = {"GROUP_STAGE", "LAST_32"}
+SUPPORTED_STAGES = {
+    "GROUP_STAGE",
+    "LAST_32",
+    "LAST_16",
+    "QUARTER_FINALS",
+    "SEMI_FINALS",
+    "THIRD_PLACE",
+    "FINAL",
+}
+
+DIRECT_STAGE_MATCH_NUMBERS = {
+    "LAST_16": list(range(89, 97)),
+    "QUARTER_FINALS": list(range(97, 101)),
+    "SEMI_FINALS": [101, 102],
+    "THIRD_PLACE": [103],
+    "FINAL": [104],
+}
 
 STATUS_MAP = {
     "SCHEDULED": "SCHEDULED",
@@ -46,6 +62,7 @@ EXPLICIT_ALIASES = {
     "Czechia": "republique-tcheque",
     "Czech Republic": "republique-tcheque",
     "Bosnia and Herzegovina": "bosnie-herzegovine",
+    "Bosnia-Herzegovina": "bosnie-herzegovine",
     "Canada": "canada",
     "Qatar": "qatar",
     "United States": "etats-unis",
@@ -124,7 +141,12 @@ def parse_datetime(value: str) -> datetime:
 
 
 def load_json(path: Path) -> Any:
-    return json.loads(path.read_text(encoding="utf-8-sig"))
+    for encoding in ("utf-8-sig", "cp1252", "latin-1"):
+        try:
+            return json.loads(path.read_text(encoding=encoding))
+        except UnicodeDecodeError:
+            continue
+    raise RuntimeError(f"Unable to decode JSON reference file: {path}")
 
 
 def load_schedule() -> list[ScheduleSlot]:
@@ -287,7 +309,7 @@ def fetch_remote_payload(api_token: str) -> dict[str, Any]:
 
 def load_input_payload(input_file: str | None) -> dict[str, Any]:
     if input_file:
-        return json.loads(Path(input_file).read_text(encoding="utf-8-sig"))
+        return load_json(Path(input_file))
 
     api_token = os.environ.get("FOOTBALL_DATA_API_KEY")
     if not api_token:
@@ -302,8 +324,14 @@ def build_live_data(payload: dict[str, Any]) -> tuple[dict[str, Any], list[str]]
     warnings: list[str] = []
     output_matches: list[dict[str, Any]] = []
 
-    for match in payload.get("matches", []):
-        if match.get("stage") not in SUPPORTED_STAGES:
+    supported_matches = [
+        match for match in payload.get("matches", [])
+        if match.get("stage") in SUPPORTED_STAGES and match.get("utcDate")
+    ]
+
+    slot_matched_stages = {"GROUP_STAGE", "LAST_32"}
+    for match in supported_matches:
+        if match.get("stage") not in slot_matched_stages:
             continue
 
         slot = match_slot(match, aliases, available_slots)
@@ -314,25 +342,22 @@ def build_live_data(payload: dict[str, Any]) -> tuple[dict[str, Any], list[str]]
             continue
 
         available_slots = [candidate for candidate in available_slots if candidate.match_number != slot.match_number]
-        home_score, away_score = full_time_score(match)
-        status = map_status(match.get("status", "SCHEDULED"), home_score is not None and away_score is not None)
+        output_matches.append(build_match_item(match, slot.match_number, aliases))
 
-        item: dict[str, Any] = {
-            "matchNumber": slot.match_number,
-            "status": status,
-            "date": parse_datetime(match["utcDate"]).isoformat(),
-        }
+    for stage, match_numbers in DIRECT_STAGE_MATCH_NUMBERS.items():
+        stage_matches = sorted(
+            [match for match in supported_matches if match.get("stage") == stage],
+            key=lambda item: (
+                parse_datetime(item["utcDate"]),
+                int(item.get("id") or 0),
+            ),
+        )
 
-        venue = match.get("venue")
-        if venue:
-            item["stadium"] = venue
+        if len(stage_matches) > len(match_numbers):
+            warnings.append(f"Too many matches for stage {stage}: {len(stage_matches)} > {len(match_numbers)}")
 
-        if home_score is not None:
-            item["homeScore"] = int(home_score)
-        if away_score is not None:
-            item["awayScore"] = int(away_score)
-
-        output_matches.append(item)
+        for match_number, match in zip(match_numbers, stage_matches):
+            output_matches.append(build_match_item(match, match_number, aliases))
 
     output_matches.sort(key=lambda item: item["matchNumber"])
     document = {
@@ -341,6 +366,41 @@ def build_live_data(payload: dict[str, Any]) -> tuple[dict[str, Any], list[str]]
         "matches": output_matches,
     }
     return document, warnings
+
+
+def build_match_item(match: dict[str, Any], match_number: int, aliases: dict[str, str]) -> dict[str, Any]:
+    home_score, away_score = full_time_score(match)
+    status = map_status(match.get("status", "SCHEDULED"), home_score is not None and away_score is not None)
+    home_name = (match.get("homeTeam") or {}).get("name")
+    away_name = (match.get("awayTeam") or {}).get("name")
+    home_id = resolve_team_id(home_name, aliases)
+    away_id = resolve_team_id(away_name, aliases)
+
+    item: dict[str, Any] = {
+        "matchNumber": match_number,
+        "status": status,
+        "date": parse_datetime(match["utcDate"]).isoformat(),
+    }
+
+    venue = match.get("venue")
+    if venue:
+        item["stadium"] = venue
+
+    if home_name:
+        item["home"] = home_name
+    if away_name:
+        item["away"] = away_name
+    if home_id:
+        item["homeId"] = home_id
+    if away_id:
+        item["awayId"] = away_id
+
+    if home_score is not None:
+        item["homeScore"] = int(home_score)
+    if away_score is not None:
+        item["awayScore"] = int(away_score)
+
+    return item
 
 
 def write_output(document: dict[str, Any], output_path: Path) -> None:
