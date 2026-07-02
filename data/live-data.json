@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-02T23:59:28.874755+02:00",
+  "updatedAt": "2026-07-03T01:10:19.487636+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -906,12 +906,14 @@
     },
     {
       "matchNumber": 83,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-03T01:00:00+02:00",
       "home": "Portugal",
       "away": "Croatia",
       "homeId": "portugal",
-      "awayId": "croatie"
+      "awayId": "croatie",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 84,
