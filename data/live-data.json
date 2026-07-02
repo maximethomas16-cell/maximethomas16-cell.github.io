@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-02T02:19:59.807647+02:00",
+  "updatedAt": "2026-07-02T06:37:11.051274+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -863,7 +863,7 @@
     {
       "matchNumber": 79,
       "status": "FINISHED",
-      "date": "2026-07-01T03:00:00+02:00",
+      "date": "2026-07-01T04:00:00+02:00",
       "home": "Mexico",
       "away": "Ecuador",
       "homeId": "mexique",
@@ -884,13 +884,13 @@
     },
     {
       "matchNumber": 81,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-02T02:00:00+02:00",
       "home": "United States",
       "away": "Bosnia-Herzegovina",
       "homeId": "etats-unis",
       "awayId": "bosnie-herzegovine",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0
     },
     {
