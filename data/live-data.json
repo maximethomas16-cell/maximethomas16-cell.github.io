@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-02T06:37:11.051274+02:00",
+  "updatedAt": "2026-07-02T09:55:37.134972+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -988,7 +988,11 @@
     {
       "matchNumber": 92,
       "status": "SCHEDULED",
-      "date": "2026-07-06T02:00:00+02:00"
+      "date": "2026-07-06T02:00:00+02:00",
+      "home": "Mexico",
+      "away": "England",
+      "homeId": "mexique",
+      "awayId": "angleterre"
     },
     {
       "matchNumber": 93,
@@ -998,7 +1002,11 @@
     {
       "matchNumber": 94,
       "status": "SCHEDULED",
-      "date": "2026-07-07T02:00:00+02:00"
+      "date": "2026-07-07T02:00:00+02:00",
+      "home": "United States",
+      "away": "Belgium",
+      "homeId": "etats-unis",
+      "awayId": "belgique"
     },
     {
       "matchNumber": 95,
