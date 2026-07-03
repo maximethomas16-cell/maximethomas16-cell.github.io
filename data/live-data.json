@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-03T21:02:32.720517+02:00",
+  "updatedAt": "2026-07-03T22:21:35.323951+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -963,7 +963,7 @@
       "away": "Egypt",
       "homeId": "australie",
       "awayId": "egypte",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1
     },
     {
