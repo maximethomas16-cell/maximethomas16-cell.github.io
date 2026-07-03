@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-03T02:18:04.454562+02:00",
+  "updatedAt": "2026-07-03T06:15:23.193414+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -906,14 +906,14 @@
     },
     {
       "matchNumber": 83,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-03T01:00:00+02:00",
       "home": "Portugal",
       "away": "Croatia",
       "homeId": "portugal",
       "awayId": "croatie",
-      "homeScore": 0,
-      "awayScore": 0
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "matchNumber": 84,
@@ -928,12 +928,14 @@
     },
     {
       "matchNumber": 85,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-03T05:00:00+02:00",
       "home": "Switzerland",
       "away": "Algeria",
       "homeId": "suisse",
-      "awayId": "algerie"
+      "awayId": "algerie",
+      "homeScore": 2,
+      "awayScore": 0
     },
     {
       "matchNumber": 86,
