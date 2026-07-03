@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-03T23:37:51.140589+02:00",
+  "updatedAt": "2026-07-04T00:40:36.070206+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -939,12 +939,14 @@
     },
     {
       "matchNumber": 86,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-04T00:00:00+02:00",
       "home": "Argentina",
       "away": "Cape Verde Islands",
       "homeId": "argentine",
-      "awayId": "cap-vert"
+      "awayId": "cap-vert",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "matchNumber": 87,
