@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-03T22:21:35.323951+02:00",
+  "updatedAt": "2026-07-03T23:37:51.140589+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -957,14 +957,14 @@
     },
     {
       "matchNumber": 88,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-03T20:00:00+02:00",
       "home": "Australia",
       "away": "Egypt",
       "homeId": "australie",
       "awayId": "egypte",
-      "homeScore": 1,
-      "awayScore": 1
+      "homeScore": 3,
+      "awayScore": 5
     },
     {
       "matchNumber": 89,
