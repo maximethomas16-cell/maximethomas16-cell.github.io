@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-04T03:15:20.019970+02:00",
+  "updatedAt": "2026-07-04T07:01:30.519251+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -950,12 +950,14 @@
     },
     {
       "matchNumber": 87,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "date": "2026-07-04T03:30:00+02:00",
       "home": "Colombia",
       "away": "Ghana",
       "homeId": "colombie",
-      "awayId": "ghana"
+      "awayId": "ghana",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "matchNumber": 88,
