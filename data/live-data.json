@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-04T07:01:30.519251+02:00",
+  "updatedAt": "2026-07-04T10:03:36.354270+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1009,7 +1009,11 @@
     {
       "matchNumber": 93,
       "status": "SCHEDULED",
-      "date": "2026-07-06T21:00:00+02:00"
+      "date": "2026-07-06T21:00:00+02:00",
+      "home": "Portugal",
+      "away": "Spain",
+      "homeId": "portugal",
+      "awayId": "espagne"
     },
     {
       "matchNumber": 94,
@@ -1023,12 +1027,20 @@
     {
       "matchNumber": 95,
       "status": "SCHEDULED",
-      "date": "2026-07-07T18:00:00+02:00"
+      "date": "2026-07-07T18:00:00+02:00",
+      "home": "Argentina",
+      "away": "Egypt",
+      "homeId": "argentine",
+      "awayId": "egypte"
     },
     {
       "matchNumber": 96,
       "status": "SCHEDULED",
-      "date": "2026-07-07T22:00:00+02:00"
+      "date": "2026-07-07T22:00:00+02:00",
+      "home": "Switzerland",
+      "away": "Colombia",
+      "homeId": "suisse",
+      "awayId": "colombie"
     },
     {
       "matchNumber": 97,
