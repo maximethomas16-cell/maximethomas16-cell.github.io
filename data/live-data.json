@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-04T18:53:49.324042+02:00",
+  "updatedAt": "2026-07-04T19:56:25.294716+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -972,12 +972,14 @@
     },
     {
       "matchNumber": 89,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-04T19:00:00+02:00",
       "home": "Canada",
       "away": "Morocco",
       "homeId": "canada",
-      "awayId": "maroc"
+      "awayId": "maroc",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 90,
