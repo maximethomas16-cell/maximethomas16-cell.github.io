@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-04T19:56:25.294716+02:00",
+  "updatedAt": "2026-07-04T21:01:32.065143+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -979,7 +979,7 @@
       "homeId": "canada",
       "awayId": "maroc",
       "homeScore": 0,
-      "awayScore": 0
+      "awayScore": 2
     },
     {
       "matchNumber": 90,
