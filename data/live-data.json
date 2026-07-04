@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-04T22:15:47.578456+02:00",
+  "updatedAt": "2026-07-04T23:25:16.917719+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -988,7 +988,9 @@
       "home": "Paraguay",
       "away": "France",
       "homeId": "paraguay",
-      "awayId": "france"
+      "awayId": "france",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 91,
