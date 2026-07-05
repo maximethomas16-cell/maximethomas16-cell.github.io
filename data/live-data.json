@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-05T23:17:46.069360+02:00",
+  "updatedAt": "2026-07-06T00:28:17.448258+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -994,14 +994,14 @@
     },
     {
       "matchNumber": 91,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "date": "2026-07-05T22:00:00+02:00",
       "home": "Brazil",
       "away": "Norway",
       "homeId": "bresil",
       "awayId": "norvege",
-      "homeScore": 0,
-      "awayScore": 0
+      "homeScore": 1,
+      "awayScore": 2
     },
     {
       "matchNumber": 92,
