@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-05T22:06:01.409145+02:00",
+  "updatedAt": "2026-07-05T23:17:46.069360+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -994,7 +994,7 @@
     },
     {
       "matchNumber": 91,
-      "status": "LIVE",
+      "status": "SCHEDULED",
       "date": "2026-07-05T22:00:00+02:00",
       "home": "Brazil",
       "away": "Norway",
