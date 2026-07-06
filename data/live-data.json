@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-06T03:21:14.871326+02:00",
+  "updatedAt": "2026-07-06T07:47:01.992855+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1005,14 +1005,14 @@
     },
     {
       "matchNumber": 92,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-06T03:00:00+02:00",
       "home": "Mexico",
       "away": "England",
       "homeId": "mexique",
       "awayId": "angleterre",
-      "homeScore": 0,
-      "awayScore": 0
+      "homeScore": 2,
+      "awayScore": 3
     },
     {
       "matchNumber": 93,
