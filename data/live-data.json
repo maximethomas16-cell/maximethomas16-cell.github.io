@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-06T07:47:01.992855+02:00",
+  "updatedAt": "2026-07-06T11:56:31.845794+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1067,7 +1067,11 @@
     {
       "matchNumber": 99,
       "status": "SCHEDULED",
-      "date": "2026-07-11T23:00:00+02:00"
+      "date": "2026-07-11T23:00:00+02:00",
+      "home": "Norway",
+      "away": "England",
+      "homeId": "norvege",
+      "awayId": "angleterre"
     },
     {
       "matchNumber": 100,
