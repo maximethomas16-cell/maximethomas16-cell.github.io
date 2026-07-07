@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-07T01:21:38.810927+02:00",
+  "updatedAt": "2026-07-07T03:13:28.677974+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1027,12 +1027,14 @@
     },
     {
       "matchNumber": 94,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-07T02:00:00+02:00",
       "home": "United States",
       "away": "Belgium",
       "homeId": "etats-unis",
-      "awayId": "belgique"
+      "awayId": "belgique",
+      "homeScore": 1,
+      "awayScore": 2
     },
     {
       "matchNumber": 95,
