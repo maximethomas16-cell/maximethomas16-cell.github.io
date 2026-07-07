@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-07T18:09:58.027290+02:00",
+  "updatedAt": "2026-07-07T20:17:24.634475+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1038,14 +1038,14 @@
     },
     {
       "matchNumber": 95,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "date": "2026-07-07T18:00:00+02:00",
       "home": "Argentina",
       "away": "Egypt",
       "homeId": "argentine",
       "awayId": "egypte",
-      "homeScore": 0,
-      "awayScore": 0
+      "homeScore": 3,
+      "awayScore": 2
     },
     {
       "matchNumber": 96,
