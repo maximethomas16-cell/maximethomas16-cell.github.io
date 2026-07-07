@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-07T20:17:24.634475+02:00",
+  "updatedAt": "2026-07-07T22:21:17.069397+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1049,12 +1049,14 @@
     },
     {
       "matchNumber": 96,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-07T22:00:00+02:00",
       "home": "Switzerland",
       "away": "Colombia",
       "homeId": "suisse",
-      "awayId": "colombie"
+      "awayId": "colombie",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 97,
