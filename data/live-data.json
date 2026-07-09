@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-09T22:47:05.687081+02:00",
+  "updatedAt": "2026-07-10T00:13:45.598363+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1060,13 +1060,13 @@
     },
     {
       "matchNumber": 97,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-09T22:00:00+02:00",
       "home": "France",
       "away": "Morocco",
       "homeId": "france",
       "awayId": "maroc",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0
     },
     {
