@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-10T19:59:05.077830+02:00",
+  "updatedAt": "2026-07-10T21:34:46.223335+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1071,12 +1071,14 @@
     },
     {
       "matchNumber": 98,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-10T21:00:00+02:00",
       "home": "Spain",
       "away": "Belgium",
       "homeId": "espagne",
-      "awayId": "belgique"
+      "awayId": "belgique",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 99,
