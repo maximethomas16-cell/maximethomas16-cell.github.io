@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-12T00:29:25.694613+02:00",
+  "updatedAt": "2026-07-12T01:27:53.879010+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1088,8 +1088,8 @@
       "away": "England",
       "homeId": "norvege",
       "awayId": "angleterre",
-      "homeScore": 2,
-      "awayScore": 1
+      "homeScore": 1,
+      "awayScore": 2
     },
     {
       "matchNumber": 100,
