@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-11T22:38:29.354223+02:00",
+  "updatedAt": "2026-07-11T23:30:51.717135+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1005,7 +1005,7 @@
     },
     {
       "matchNumber": 92,
-      "status": "FINISHED",
+      "status": "SCHEDULED",
       "date": "2026-07-06T03:00:00+02:00",
       "home": "Mexico",
       "away": "England",
@@ -1082,12 +1082,14 @@
     },
     {
       "matchNumber": 99,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-11T23:00:00+02:00",
       "home": "Norway",
       "away": "England",
       "homeId": "norvege",
-      "awayId": "angleterre"
+      "awayId": "angleterre",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 100,
