@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-12T03:03:33.349401+02:00",
+  "updatedAt": "2026-07-12T06:35:43.682484+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1093,12 +1093,14 @@
     },
     {
       "matchNumber": 100,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "date": "2026-07-12T03:00:00+02:00",
       "home": "Argentina",
       "away": "Switzerland",
       "homeId": "argentine",
-      "awayId": "suisse"
+      "awayId": "suisse",
+      "homeScore": 3,
+      "awayScore": 1
     },
     {
       "matchNumber": 101,
