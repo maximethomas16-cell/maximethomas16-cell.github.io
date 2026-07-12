@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-12T01:27:53.879010+02:00",
+  "updatedAt": "2026-07-12T03:03:33.349401+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1082,7 +1082,7 @@
     },
     {
       "matchNumber": 99,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-11T23:00:00+02:00",
       "home": "Norway",
       "away": "England",
