@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-15T20:55:34.474421+02:00",
+  "updatedAt": "2026-07-15T22:03:15.979831+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1115,12 +1115,14 @@
     },
     {
       "matchNumber": 102,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "date": "2026-07-15T21:00:00+02:00",
       "home": "England",
       "away": "Argentina",
       "homeId": "angleterre",
-      "awayId": "argentine"
+      "awayId": "argentine",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "matchNumber": 103,
