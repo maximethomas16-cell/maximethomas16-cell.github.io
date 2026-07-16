@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-16T08:02:31.982799+02:00",
+  "updatedAt": "2026-07-16T10:30:55.271930+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1129,14 +1129,18 @@
       "status": "SCHEDULED",
       "date": "2026-07-18T23:00:00+02:00",
       "home": "France",
-      "homeId": "france"
+      "away": "England",
+      "homeId": "france",
+      "awayId": "angleterre"
     },
     {
       "matchNumber": 104,
       "status": "SCHEDULED",
       "date": "2026-07-19T21:00:00+02:00",
       "home": "Spain",
-      "homeId": "espagne"
+      "away": "Argentina",
+      "homeId": "espagne",
+      "awayId": "argentine"
     }
   ]
 }
