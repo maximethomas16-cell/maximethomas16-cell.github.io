@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T23:32:42.062167+02:00",
+  "updatedAt": "2026-07-20T00:32:21.779344+02:00",
   "matches": [
     {
       "matchNumber": 1,
@@ -1137,13 +1137,13 @@
     },
     {
       "matchNumber": 104,
-      "status": "LIVE",
+      "status": "FINISHED",
       "date": "2026-07-19T21:00:00+02:00",
       "home": "Spain",
       "away": "Argentina",
       "homeId": "espagne",
       "awayId": "argentine",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0
     }
   ]
